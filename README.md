@@ -1,0 +1,1 @@
+Análise multitabular de dados da plataforma Instacart para investigar padrões de compra e comportamento de clientes. Realizei pré-processamento completo (tratamento de nulos e duplicatas), análise exploratória com gráficos e extração de insights sobre horários de pedidos, frequência de recompra e produtos mais populares.
