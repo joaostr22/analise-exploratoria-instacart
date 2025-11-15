@@ -11,4 +11,3 @@ Análise multitabular de dados da plataforma Instacart para investigar padrões 
 ```bash
 git clone https://github.com/joaostr22/analise-exploratoria-instacart.git
 cd analise-exploratoria-instacart
-pip install -r requirements.txt
